@@ -1,0 +1,1 @@
+Try to login without 8 characters.
